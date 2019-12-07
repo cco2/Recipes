@@ -42,16 +42,17 @@ Makes 4 servings
 1. Continue cooking in oven for 30 minutes.
 1. Remove from oven and rest for 30 minutes.
 
-## Level up
-Do any/all of the following:
-* Change the cheese sauce to use higher quality cheeses, mixed into a roux with an emulsifier like sodium citrate.
-* Add a crispy topping like breadcrumbs during the baking process. If you do this, make sure to broil towards the end to really make the top crispy.
-* Add extra ingredients like bacon into the body of the mac and cheese.
+## Notes
+To spice up this recipe, do any/all of the following:
+* Change the cheese sauce to use higher quality cheeses. Semi-firm cheese works well. Mix with sodium citrate additive as an emulsifier.
+* Add a crispy topping like breadcrumbs during the baking process.
+* Add extra spices/ingredients into the body of the mac and cheese.
 
 ## Common Questions
 * Why use Kraft Deli Deluxe American Cheese?
    * Kraft Deli Deluxe American Cheese contains emulsifiers that thicken the cheese sauce. The emulsifiers help create a very smooth texture that is more difficult to replicate using a roux.
 
 ## References
-* Adam Ragusea Recipe - https://www.youtube.com/watch?v=9iP1QXFWYkA
-* Gavin Webber's Sodium Citrate Recipe - https://www.youtube.com/watch?v=UTGzLor4k4M
+* Adam Ragusea's Simple Mac and Cheese Recipe - https://www.youtube.com/watch?v=9iP1QXFWYkA
+* Adam Regusea's Sodium Citrate Mac & Cheese Recipe - https://www.youtube.com/watch?v=KcM_MZoJWOo
+* Gavin Webber's Making Homemade Sodium Citrate - https://www.youtube.com/watch?v=UTGzLor4k4M

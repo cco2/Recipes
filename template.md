@@ -1,11 +1,21 @@
-Recipe
+Recipe Name
 ======
+Short description
 
 ## Ingredients
-- 
+*
 
-## Prep
-- 
+## Tools
+*
 
-## Cook
-- 
+## Steps
+1.
+
+## Additional Notes
+*
+
+## Common Questions
+*
+
+## References
+*

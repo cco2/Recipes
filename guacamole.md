@@ -1,5 +1,6 @@
 Guacamole
 ======
+Simple guacamole recipe.
 
 ## Ingredients
 Makes 3 servings
@@ -32,6 +33,7 @@ Makes 3 servings
 
 ## Additional Notes
 * Can use white wine vinegar instead of lime if desired
+* Chop onion and tomato thicker to get a chunkier guacamole
 * This recipe preserves a heavy avocado flavor and not have the onion, garlic, or tomato overpower the guacamole
 
 ## References

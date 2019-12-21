@@ -4,10 +4,10 @@ Simple guacamole recipe.
 
 ## Ingredients
 Makes 3 servings
-* 2 large avocado
+* 2 large avocado (Hass)
 * 1 clove of garlic
 * 1/4th large yellow onion
-* 1 tomato
+* 1 ripe tomato
 * 1 tbsp olive oil
 * 1/2 lime
 * Salt

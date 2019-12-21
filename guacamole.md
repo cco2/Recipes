@@ -6,7 +6,7 @@ Simple guacamole recipe.
 Makes 3 servings
 * 2 large avocado (Hass)
 * 1 clove of garlic
-* 1/4th large yellow onion
+* 1/4th large onion (white, yellow, or red)
 * 1 ripe tomato
 * 1 tbsp olive oil
 * 1/2 lime
@@ -20,7 +20,7 @@ Makes 3 servings
 
 ## Steps
 1. Peel and place avocado into bowl
-1. Mash avocado until desired guacamole consistency
+1. Mash avocado until desired guacamole texture
 1. Finely chop garlic and add to mixture
 1. Finely chop onion and add to mixture
 1. Chop tomato and add to mixture
@@ -34,6 +34,7 @@ Makes 3 servings
 ## Additional Notes
 * Can use white wine vinegar instead of lime if desired
 * Chop onion and tomato thicker to get a chunkier guacamole
+* White onion gives a sharp bite to the guacamole. Yellow and red onions give a sweet flavor with less bite.
 * This recipe preserves a heavy avocado flavor and not have the onion, garlic, or tomato overpower the guacamole
 
 ## References

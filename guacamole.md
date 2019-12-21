@@ -19,7 +19,7 @@ Makes 3 servings
 * Masher
 
 ## Steps
-1. Peel and place avocado into bowl
+1. Place avocado flesh into bowl. One method is to slice the avocado in half, cut the flesh in a grid inside the skin, and use a spoon to remove the contents.
 1. Mash avocado until desired guacamole texture
 1. Finely chop garlic and add to mixture
 1. Finely chop onion and add to mixture

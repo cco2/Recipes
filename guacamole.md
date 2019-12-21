@@ -23,7 +23,7 @@ Makes 3 servings
 1. Finely chop garlic and add to mixture
 1. Finely chop onion and add to mixture
 1. Chop tomato and add to mixture
-1. Juice lime and add to mixture
+1. Juice lime into mixture
 1. Add olive oil
 1. (Optional) Chop cilantro and add to mixture
 1. Mix the guacamole thorougly
@@ -31,10 +31,8 @@ Makes 3 servings
 1. Place in fridge to chill for 30 minutes
 
 ## Additional Notes
-*
-
-## Common Questions
-*
+* Can use white wine vinegar instead of lime if desired
+* This recipe preserves a heavy avocado flavor and not have the onion, garlic, or tomato overpower the guacamole
 
 ## References
 * https://www.allrecipes.com/recipe/14064/easy-guacamole/

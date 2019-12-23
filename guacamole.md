@@ -6,7 +6,7 @@ Traditionally, guacamole was just a mixture of mashed avocado and salt. Avocado 
 
 Later on, people added in all types of ingredients. Acidity, usually in the form of lime. Onions and clantro for aromatics. Peppers for spice.
 
-Advice - Focus on what your audience prefers and the freshness of the ingredients.
+Focus on freshness of the ingredients.
 
 ## Ingredients
 Makes 3 servings

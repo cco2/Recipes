@@ -62,5 +62,6 @@ Makes 3 servings
     * I prefer lime, but white wine vinegar can also work.
 
 ## References
+* Not Another Cooking Show Guacamole Recipe - https://www.youtube.com/watch?v=nq5vKhEn4pI
 * https://www.allrecipes.com/recipe/14064/easy-guacamole/
 * https://www.seriouseats.com/2012/01/the-food-lab-the-best-guacamole-avocados-science-browning-ripening.html

@@ -9,10 +9,11 @@ This is my mom's recipe. Compared to traditional bistek tagalog, this version yi
 * 7 cloves of Garlic
 * 1 Lemon
 * 1 Calimansi
-* Oil
+* Oil (Neutral)
 * Water
 * Soy Sauce
 * Pepper
+* (Optional) Onions
 
 ## Tools
 * Marinade bowl
@@ -28,10 +29,13 @@ This is my mom's recipe. Compared to traditional bistek tagalog, this version yi
 1. Let rest in fridge for a few hours (overnight is best)
 ### Cook
 1. Roughly chop 4 cloves of garlic
-1. In pan, add oil and heat garlic until slightly brown to infuse the oil with garlic
+1. (Optional) Slice onions into rings
+1. In pan, add oil and heat garlic (and optionally add half of the onion rings) until slightly brown to infuse the oil with flavor.
 1. Add meat only and stir fry until brown
 1. Add marinade and calimansi
 1. Add water and simmer for about 10 minutes. Amount of water depends on how much sauce you want.
+1. Season to taste.
+1. (Optional) Garnish with remaining onion rings
 
 ## Additional Notes
 * Traditional bistek tagalog doesn't have much sauce at the end and adds rings of onion during cooking and/or as a garnish

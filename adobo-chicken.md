@@ -20,7 +20,7 @@ Adobo Chicken
 ## Steps
 ### Marinade
 1. Add chicken thigh and soy sauce into marinade bowl
-1. Grate 4 cloves of gar
+1. Grate 4 cloves of garlic
 1. Mix well.
 1. Cover and place in fridge for at least 2 hours
 

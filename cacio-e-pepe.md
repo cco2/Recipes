@@ -2,10 +2,10 @@ Cacio e Pepe
 ======
 
 ## Ingredients
-Makes 2 servings
-* 80g Pecorino Romano cheese (Freshly and Finely Grated)
-* 2 Tbsp Quality Black Peppercorn (i.e. Tellicherry)
-* 200g Thick Spaghetti
+Makes 4 servings
+* 160g Pecorino Romano cheese (Freshly and Finely Grated)
+* 1 Tbsp Quality Black Peppercorn (i.e. Tellicherry)
+* 1lb Pasta (Thick Spaghetti)
 * Water
 * Salt
 

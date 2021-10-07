@@ -1,7 +1,7 @@
 Pork Belly Lollipops
 ======
 
-A recipie for a delicious yet rare squash variety
+A sweet, smokey, and savory pork belly treat.
 
 ## Ingredients
 - 4lbs Pork Belly (Preferably from costco)

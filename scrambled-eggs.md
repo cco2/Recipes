@@ -1,13 +1,12 @@
 Scrambled eggs
 ======
-Kenji's scrambled eggs
+Kenji's scrambled eggs. Uses starch slurry and butter to make creamy scrambled eggs.
 
 ## Ingredients
 * 4 eggs
 * 2 tsp starch (corn starch, potato starch, etc)
 * 3 tbsp butter (2 tbsp cut into little cubes, 1 tbsp for cooking)
 * Water
-
 
 ## Tools
 * Non-stick pan

@@ -1,6 +1,8 @@
 Ranch Dressing (using Greek Yogurt)
 ======
 
+![alt text](images/ranch-jar.jpg "Jar of homemade ranch")
+
 ## Ingredients
 * 1/2 cup greek yogurt
 * 1/4 cup mayonnaise

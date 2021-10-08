@@ -1,7 +1,7 @@
 Ranch Dressing (using Greek Yogurt)
 ======
 
-![alt text](images/ranch-jar.jpg "Jar of homemade ranch")
+<img src="images/ranch-jar.jpg" alt="Ranch!" title="Jar of homemade ranch" width="300" />
 
 ## Ingredients
 * 1/2 cup greek yogurt

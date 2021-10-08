@@ -17,7 +17,7 @@ A college favorite for when you have extra torillas and chicken lying around.
 * aluminum foil
 
 ## Steps
-1. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.
+1. Preheat the oven to 350 degrees F. Lightly grease a 9x13 inch baking dish.
 1. In a small saucepan over medium heat, combine the cream cheese and salsa. Cook, stirring until melted and well blended. Stir in chicken and pinto beans. 
 1. Fill tortillas with the mixture, roll and place into the prepared baking dish. Spread cheese over the top. Cover with aluminum foil.
 1. Bake for 30 minutes, or until heated through. Garnish with your favorite toppings such as lettuce and tomatoes, or sour cream.

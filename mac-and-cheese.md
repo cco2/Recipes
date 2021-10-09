@@ -3,7 +3,7 @@ Mac and Cheese
 
 Simple Mac and Cheese recipe from Adam Ragusea. Good base recipe and very straight-forward to make.
 
-![alt text](images/mac-n-cheese.jpg "Simple Mac and Cheese")
+<img src="images/mac-n-cheese.jpg" alt="Mac & Cheese!" title="Simple Mac and Cheese" width="400" />
 
 ## Ingredients
 Makes 4 servings

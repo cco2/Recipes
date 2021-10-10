@@ -1,5 +1,8 @@
 Garlic Noodles
 ======
+
+<img src="images/garlic-noodles.jpg" alt="Garlic Noodles!" title="So much garlic!" width="300" />
+
 Very easy to make and delicious fusion dish (assuming you like garlic flavor). Originated from San Francisco. Garlic noodles are served typically as a side dish of seafood, but it is also good on its own. Lots of garlic!
 
 ## Ingredients

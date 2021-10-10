@@ -46,4 +46,4 @@ Using the dough
 ## Common Questions
 * What do I do if I ate too much of the raw dough and I don't have enough to make a second pie?
     * Eat the rest of the dough
-    * Make cookies
+    * Make [cookies](pets-de-soeurs.md)

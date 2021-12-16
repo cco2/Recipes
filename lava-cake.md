@@ -24,8 +24,8 @@ Lava cake receipe can make 6-7 single serving lava cakes depending on baking cup
 ## Steps
 1. In a small pot melt chocolate and butter, use double boiler method to reduce risk of burning butter
 2. Whisk eggs and sugar in a mixing bowl, mix until eggs and sugar are fully integrated
-3. Pour the chocolate/butter (ganache) slowly mix into the eggs/sugar
-4. Slowly add flour into the chocolate/butter/eggs/sugar mixture, fold in the flour do not mix
+3. Mix the chocolate/butter (ganache) into the eggs/sugar
+4. Slowly add flour into the combined mixture, fold in the flour do not mix
 5. Evenly distribute mixture into 7-8 small cupcake baking cups
 6. Place cups into frdige for 1-2 hours
 7. Bake for 7-8min at 400F

@@ -14,7 +14,7 @@ baked rack of lamb with a mint and rosemary crust
 * salt and pepper
 
 ## Tools
-* 1 large oven safe pan
+* 1 oven safe fry-pan
 * oven
 * knife or food processor to cut herbs
 * food brush

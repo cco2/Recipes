@@ -1,4 +1,4 @@
-Recipe Name
+Lava Cake
 ======
 Lava cake receipe can make 6-7 single serving lava cakes depending on baking cup size
 

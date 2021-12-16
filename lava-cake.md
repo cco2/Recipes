@@ -2,7 +2,7 @@ Recipe Name
 ======
 Lava cake receipe can make 6-7 single serving lava cakes depending on baking cup size
 
-<img src="images/mac-n-cheese.jpg" alt="Mac & Cheese!" title="Simple Mac and Cheese" width="400" />
+<img src="images/lava-cake.jpg" alt="Mac & Cheese!" title="Simple Mac and Cheese" width="400" />
 
 
 ## Ingredients

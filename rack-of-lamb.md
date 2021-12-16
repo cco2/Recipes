@@ -1,4 +1,4 @@
-Recipe Name
+rack of lamb
 ======
 baked rack of lamb with a mint and rosemary crust
 

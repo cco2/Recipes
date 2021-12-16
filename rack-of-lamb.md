@@ -1,4 +1,4 @@
-rack of lamb
+Rack of Lamb
 ======
 baked rack of lamb with a mint and rosemary crust
 

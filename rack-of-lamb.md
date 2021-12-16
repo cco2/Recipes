@@ -2,7 +2,7 @@ Rack of Lamb
 ======
 baked rack of lamb with a mint and rosemary crust
 
-<img src="images/lamb-rack.jpg" alt="Mac & Cheese!" title="Simple Mac and Cheese" width="400" />
+<img src="images/lamb-rack.jpg" alt="Rack of lamb!" title="Rack of lamb" width="400" />
 
 ## Ingredients
 * full rack of lamb

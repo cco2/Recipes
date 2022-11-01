@@ -25,5 +25,5 @@ jobs:
           sudo unzip $GITHUB_WORKSPACE/CookCLI_*_linux_amd64.zip -d /usr/local/bin/
           for RECIPE in $GITHUB_WORKSPACE/*.cook
           do
-             cook recipe read $RECIPE
+             cook recipe read "$RECIPE"
           done

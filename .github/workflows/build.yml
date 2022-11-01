@@ -23,4 +23,7 @@ jobs:
       - name: Extract and run CookCLI
         run: |
           sudo unzip $GITHUB_WORKSPACE/CookCLI_*_linux_amd64.zip -d /usr/local/bin/
-          cook recipe read $GITHUB_WORKSPACE/*.cook
+          for RECIPE in $GITHUB_WORKSPACE/*.cook
+          do
+             cook recipe read "$RECIPE"
+          done

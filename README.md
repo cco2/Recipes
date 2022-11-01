@@ -4,4 +4,4 @@
 I needed a place to store my cooking notes. Starting with basic recipes and working my way up.
 
 ## Contribution Guidelines
-Contributions welcome. If contributing a recipe, I made a [recipe template](template.md) to help get started.
+Contributions welcome. If contributing a recipe, please create a [Cooklang](https://cooklang.org/) `.cook` file.

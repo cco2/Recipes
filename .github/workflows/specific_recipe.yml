@@ -1,0 +1,25 @@
+name: Build Specific Recipe
+
+on:
+  workflow_dispatch:
+    inputs:
+      recipe:
+        description: 'Recipe to build'
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: release-downloader
+        uses: robinraju/release-downloader@v1.6
+        with:
+          repository: cooklang/CookCLI
+          latest: true
+
+      - name: Extract and run CookCLI
+        run: |
+          sudo unzip $GITHUB_WORKSPACE/CookCLI_*_linux_amd64.zip -d /usr/local/bin/
+          cook recipe read "$GITHUB_WORKSPACE/${{ github.event.inputs.recipe }}.cook"

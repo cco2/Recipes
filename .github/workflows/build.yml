@@ -35,6 +35,7 @@ jobs:
           # A flag to choose between latest release and remaining releases
           latest: true
 
-      - name: Build with CookCLI
+      - name: Extract and run CookCLI
         run: |
-          ls $GITHUB_WORKSPACE
+          sudo unzip $GITHUB_WORKSPACE/CookCLI_*_linux_amd64.zip -d /usr/local/bin/
+          cook recipe read $GITHUB_WORKSPACE/*.cook
